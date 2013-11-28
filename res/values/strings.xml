@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_settings">Configuración</string>
+    
+    <string name="insert">Insertar</string>
+    <string name="hello">Aplicacion ToDo</string>
+    <string name="app_name">ToDo</string>
+    <string name="no_todos">Actualmente no hay elementos ToDo</string>
+    <string name="menu_insert">Añadir elemento</string>
+    <string name="menu_delete">Borrar ToDo</string>
+    <string name="todo_summary">Sumario</string>
+    <string name="todo_description">Descripción</string>
+    <string name="todo_edit_summary">Sumario</string>
+    <string name="todo_edit_description">Descripción</string>
+    <string name="todo_edit_confirm">Confirmar</string>
+
+</resources>
